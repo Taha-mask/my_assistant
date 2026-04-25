@@ -1,0 +1,9 @@
+SpeechRecognition
+pyttsx3
+PyAudio
+pycaw
+comtypes
+ollama
+psutil
+requests
+python-dotenv
